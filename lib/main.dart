@@ -23,6 +23,10 @@ class _MyAppState extends State<MyApp> {
       'answers': ['Hitam', 'Merah', 'Hijau', 'Putih'],
     },
     {
+      'questionText': 'Apa kegiatan favorit anda?',
+      'answers': ['Berenang', 'Tidur', 'Membaca buku', 'Menggambar'],
+    },
+    {
       'questionText': 'Apa peliharaan favorit anda?',
       'answers': ['Anjing', 'kucing', 'Burung', 'Ular'],
     },
